@@ -100,11 +100,11 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🤘 ᴀʙᴏᴜᴛ", callback_data="Neko_"),
+        InlineKeyboardButton(text="🤘 ᴀʙᴏᴜᴛ", callback_data="About_ranavanshi_divy"),
         InlineKeyboardButton(text="💪🇮🇳 ᴏᴡɴᴇʀ", url=f"tg://user?id={OWNER_ID}"),
     ],
     [
-        InlineKeyboardButton(text="🦄 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/CyberMusicProject"),
+        InlineKeyboardButton(text="🦄 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/webnet_bot_support"),
         InlineKeyboardButton(text="🇮🇳 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -125,7 +125,7 @@ DONATE_STRING = """
 Hey babe,
 Happy to hear that you want to donate
 
-You can directly contact my [Developer](https://t.me/mogambo_odin) for donating or you can visit my [Support chat](https://t.me/CyberSupportGroup) and ask for donation.
+You can directly contact my [Developer](https://t.me/ranavanshi_divy) for donating or you can visit my [Support chat](https://t.me/webnet_support_chats) and ask for donation.
 """
 
 IMPORTED = {}
@@ -257,7 +257,7 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_photo(
             START_IMG,
-            caption="I am alive baby!\n<b>Haven't slept since :</b> <code>{}</code>".format(
+            caption="I am alive baby!\n🥀🏵 ᴍʏ ᴍᴀsᴛᴇʀ @Ranavanshi_Divy\n<b>Haven't slept since :</b> <code>{}</code>".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
@@ -414,7 +414,7 @@ def Neko_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", callback_data="Neko_support"
+                            text="sᴜᴩᴩᴏʀᴛ", callback_data="webnet_bot_support"
                         ),
                         InlineKeyboardButton(
                             text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"
@@ -449,7 +449,7 @@ def Neko_about_callback(update: Update, context: CallbackContext):
                             text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/CyberMusicProject"
+                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/webnet_bot_support"
                         ),
                     ],
                     [
@@ -458,7 +458,7 @@ def Neko_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            callback_data="https://github.com/Mogambo-Xd",
+                            callback_data="https://github.com/Ranavanshi",
                         ),
                     ],
                     [
@@ -500,7 +500,7 @@ Written in Python with the help of
 [Telethon](https://github.com/LonamiWebs/Telethon) • [Pyrogram](https://github.com/pyrogram/pyrogram) • [PTB](https://github.com/python-telegram-bot/python-telegram-bot)
 And suing [SQlalchemy](https://www.sqlalchemy.org) and [Mongo](https://cloud.mongodb.com) as Database.
   
-   [𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁](https://GitHub.com/MOGAMBO-XD/NekoRobot)
+   [𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁](https://GitHub.com/Ranavanshi/NekoRobot)
    
 ©2022-2023 @Cybermusicproject, All rights reserved.
 """,
