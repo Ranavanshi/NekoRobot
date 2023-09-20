@@ -13,9 +13,9 @@ class Config(object):
     API_ID = "6447873"
     API_HASH = ""
     TOKEN = ""
-    OWNER_ID = "5136853481"
-    OWNER_USERNAME = "Offline_into_100"
-    SUPPORT_CHAT = "CyberSupportGroup"
+    OWNER_ID = "1995154708"
+    OWNER_USERNAME = "ranavanshi_divy"
+    SUPPORT_CHAT = "webnet_suppirt_chats"
     JOIN_LOGGER = ()
     EVENT_LOGS = ()
 
@@ -55,7 +55,7 @@ class Config(object):
     BL_CHATS = []
     SPAMMERS = None
     ALLOW_CHATS = True
-    START_IMG = ""
+    START_IMG = "http://telegra.ph/file/74b30d5ca9e482daf5466.jpg"
     HEROKU_API_KEY = None
     HEROKU_APP_NAME = None
     TEMP_DOWNLOAD_DIRECTORY = "./"
