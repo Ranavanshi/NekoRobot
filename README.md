@@ -5,8 +5,7 @@
   <img src="https://telegra.ph/file/0c5e970fb45e4f59e49d2.jpg">
 </p>
 
-# Neko Robot // @Neko_XRobot
-
+# 𝐖ᴇʙɴᴇᴛ_x_𝐌ᴀɴᴀɢᴇᴍᴇɴᴛ
 
 <!--- P Y T H O N   B A D G E --->
 
@@ -46,8 +45,8 @@ The Support group can be reached out to at [Cyber Support](https://t.me/CyberMus
 
 ## ╔═━「 Creator Info 」
 
-+ [MOGAMBO](https://github.com/mogambo-Xd) : OWNER | DEV
-+ [Mogambo](https://t.me/mogambo_odin) : SUDO
++ [MOGAMBO](https://github.com/Ranavanshi) : OWNER | DEV
++ [Mogambo](https://t.me/ranavanshi_divy) : SUDO
 
    <a href="https://t.me/CYBERMUSICPROJECT"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=320px></a>
    <a href="https://t.me/CYBERSupportgroup"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=320px></a>
@@ -72,7 +71,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 The Easiest Way to Deploy This Bot is Via Heroku. In Order To deploy, You Just Have Fill The Necessary Environment Variables and Done!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MOGAMBO-XD/NekoRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ranavanshi/NekoRobot)
 
 
 <details>
